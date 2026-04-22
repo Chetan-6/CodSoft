@@ -1,2 +1,0 @@
-# CodSoft
-CodSoft Intersnship Tasks
